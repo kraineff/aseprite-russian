@@ -1,0 +1,23 @@
+{
+  "name": "language-extension-ru",
+  "displayName": "Russian Language",
+  "version": "1.0",
+  "author": {
+    "name": "xMrVizzy",
+    "email": "xmrvizzy@ya.ru",
+    "url": "https://github.com/xMrVizzy"
+  },
+  "publisher": "aseprite_ru",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "ru",
+        "path": "./ru.ini"
+      }
+    ]
+  }
+}
