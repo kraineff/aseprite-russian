@@ -5,16 +5,16 @@
         <author name="Ilija Melentijevic" url="http://ilkke.blogspot.com/" />
     </authors>
     <fonts>
-      <font name="Pixel Cyr"
+      <font name="Minecraft Rus Regular"
         type="truetype"
-        file="Pixel Cyr.ttf"
+        file="Minecraft Rus Regular.ttf"
         id="default"
-        size="8"/>
-      <font name="Pixel Cyr"
+        size="7"/>
+      <font name="Minecraft Rus Regular"
         type="truetype"
-        file="Pixel Cyr.ttf"
+        file="Minecraft Rus Regular.ttf"
         id="mini"
-        size="8"/>
+        size="7"/>
     </fonts>
     <dimensions>
         <dim id="scrollbar_size" value="12" />
